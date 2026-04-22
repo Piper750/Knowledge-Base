@@ -1,8 +1,7 @@
-# TE-KB-RAG
+
 
 这是一个围绕“题型—经验知识库（Type-Experience Knowledge Base）
 
-在原项目基础上，这个版本加入了：
 
 - **可学习题型抽象器**：`src/type_abstractor.py`
 - **规则 / learned / hybrid 三种题型抽象策略**
